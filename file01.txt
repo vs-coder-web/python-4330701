@@ -1,0 +1,1 @@
+I am learning Python Language.This is a File Operation.The list of strings are added to file.

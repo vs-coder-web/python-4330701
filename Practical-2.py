@@ -1,0 +1,8 @@
+Name = (input('Enter Your Name:'))
+Contact = (input('Enter Your Contact Number:'))
+Email = (input('Enter Your Email ID:'))
+Birthdate = (input('Enter Your Date of Birth (dd/mm/yyyy):'))
+print(Name)
+print(Contact)
+print(Email)
+print(Birthdate)

@@ -1,0 +1,10 @@
+n=int(input('Enter How many numbers you want to insert: '))
+i=1
+sum=0
+while i<=n:
+ j=int(input('Enter Numbers: '))
+ sum=sum+j
+ i=i+1
+print('Sum =',sum)
+avg=sum/n
+print('Average =',avg)
